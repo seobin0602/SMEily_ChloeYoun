@@ -1,6 +1,5 @@
-# SMEily_ChloeYoun
+# SMEily_MVP ReadMe
 
-readme_text = """
 # SMEily 💸
 
 SMEily is a global lending and payments platform designed for underserved SMEs around the world. The MVP connects borrowers and investors using blockchain, stablecoins, and real-time credit scoring — offering a fully automated, transparent, and borderless lending experience.
