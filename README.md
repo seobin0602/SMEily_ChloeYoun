@@ -64,8 +64,7 @@ In this stage, SMEily supports:
 
 ## 🧱 Architecture Diagram
 
-![MVP Flowchart](smeily_bp_to_mvp_flowchart.png)
-
+![MVP Flowchart](https://drive.google.com/drive/u/0/recent)
 ---
 
 ## 🔒 Risk Management
