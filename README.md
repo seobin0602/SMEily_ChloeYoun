@@ -62,11 +62,6 @@ In this stage, SMEily supports:
 
 ---
 
-## 🧱 Architecture Diagram
-
-![MVP Flowchart](https://drive.google.com/drive/u/0/recent)
----
-
 ## 🔒 Risk Management
 
 ### Prerequisites for Scale
@@ -97,3 +92,12 @@ In this stage, SMEily supports:
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+**### 2. Start Backend**
+```bash
+uvicorn backend.main:app --reload
+
+**### 3. Start Frontend on different terminal**
+```bash
+streamlit run frontend/app.py
+
